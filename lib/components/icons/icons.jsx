@@ -307,3 +307,13 @@ export const Zeplin = React.lazy(() => import("./library/zeplin.jsx"));
 export const Zoom = React.lazy(() => import("./library/zoom.jsx"));
 export const Zotero = React.lazy(() => import("./library/zotero.jsx"));
 export const Zulip = React.lazy(() => import("./library/zulip.jsx"));
+
+
+
+export const Textedit = React.lazy(() => import("./library/Textedit.jsx"));
+export const QQ = React.lazy(() => import("./library/QQ.jsx"));
+export const Weibo = React.lazy(() => import("./library/Weibo.jsx"));
+export const Image = React.lazy(() => import("./library/Image.jsx"));
+export const Translate = React.lazy(() => import("./library/Translate.jsx"));
+export const GoldenDict = React.lazy(() => import("./library/GoldenDict.jsx"));
+
